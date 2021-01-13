@@ -1,6 +1,6 @@
 .container{
     margin-bottom: 100px;
-    
+    max-width:1200px ;
 }
 .price{
     color: #FF136F;
